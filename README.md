@@ -15,7 +15,7 @@ Application functionality:
 ---
 
 ## This app deployed on heroku and connected to a remote database.
-- You can read a boring description or try the service yourself by clicking on the icon > <a href="https://my-custom-taxi-service.herokuapp.com/login"><img src="src/images/im2.png" align="centre" height="40"/></a>
+- You can read a boring description or try the service yourself by clicking on the icon > <a href="https://my-simple-taxi-service.herokuapp.com/login"><img src="src/images/im2.png" align="centre" height="40"/></a>
 ---
 
 ## This application has a three-tier architecture.
