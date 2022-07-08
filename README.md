@@ -1,4 +1,4 @@
-# Simple taxi service <img src="src/images/im1.png" align="centre" height="70"/> <img src="src/images/im1.png" align="left" height="70"/>
+# Simple taxi service <img src="images/im1.png" align="centre" height="70"/> <img src="images/im1.png" align="left" height="70"/>
 
 
 Taxi service is a simple Web-application that implements authentication, registration, and database operations. 
@@ -15,11 +15,11 @@ Application functionality:
 ---
 
 ## This app deployed on heroku and connected to a remote database.
-- You can read a boring description or try the service yourself by clicking on the icon > <a href="https://my-simple-taxi-service.herokuapp.com/login"><img src="src/images/im2.png" align="centre" height="40"/></a>
+- You can read a boring description or try the service yourself by clicking on the icon > <a href="https://my-simple-taxi-service.herokuapp.com/login"><img src="images/im2.png" align="centre" height="40"/></a>
 ---
 
 ## This application has a three-tier architecture.
-<img src="src/images/im4.png" align="centre" height="200"/>
+<img src="images/im4.png" align="centre" height="200"/>
 
 - Dao - work with database by CRUD operation.
 - Service - business logic, working with data before reading or writing to the database.
